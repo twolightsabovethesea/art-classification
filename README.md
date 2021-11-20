@@ -16,6 +16,14 @@ In this project we used machine learning to determine if Van Gogh paintings were
 * Jupyter Lab -- Data Storage
 
 ## Website 
-[Git Hub Pages](https://github.com/twolightsabovethesea/art-classification/tree/main/art-classification-site)
+[Git Hub Pages](https://twolightsabovethesea.github.io/art-classification/)
+
+## Data Analysis
+
+
+
+
+
+## Conclusion
 
 
