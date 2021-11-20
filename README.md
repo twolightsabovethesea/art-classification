@@ -2,5 +2,5 @@
 
 Predicting if images of artwork by Vincent Van Gogh or art _inspired_ by Van Gogh can be determined by using machine learning.
 ---
-![Image] (https://vangoghornot.s3.amazonaws.com/van_gogh/olive-trees-with-yellow-sky-and-sun.jpg)
+![] (https://vangoghornot.s3.amazonaws.com/van_gogh/olive-trees-with-yellow-sky-and-sun.jpg)
 
