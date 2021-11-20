@@ -17,3 +17,5 @@ In this project we used machine learning to determine if Van Gogh paintings were
 
 ## Website 
 [Git Hub Pages](https://github.com/twolightsabovethesea/art-classification/tree/main/art-classification-site)
+
+
