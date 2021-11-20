@@ -1,4 +1,4 @@
 # Van Gogh or No?
 
-Classifying whether images of artwork show art by Vincent Van Gogh or art not by Van Gogh using machine learning
+Predicting if images of artwork by Vincent Van Gogh or art __inspired by Van Gogh can be determined by using machine learning.
 ---
