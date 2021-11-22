@@ -17,7 +17,7 @@ In this project we used machine learning to determine if Van Gogh paintings were
 
 ## Data Sources
 * [Van Gogh Website](https://www.vincentvangogh.org/)
-* Public Libary Facebook page link
+* Guthrie Memorial Library Hanover, PA 
 
 
 ## Website 
