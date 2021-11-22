@@ -17,10 +17,10 @@ In this project we used machine learning to determine if Van Gogh paintings were
 
 ## Data Sources
 * [Van Gogh Website](https://www.vincentvangogh.org/)
-* Guthrie Memorial Library Hanover, PA 
+* Guthrie Memorial Library Facebook Page Hanover, PA 
 
 
-## Website 
+## Van Gogh Website Created for Project
 [Git Hub Pages](https://twolightsabovethesea.github.io/art-classification/)
 
 ## Data Analysis
