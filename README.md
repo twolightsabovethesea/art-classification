@@ -23,7 +23,8 @@ In this project we used machine learning to determine if Van Gogh paintings were
 ## Van Gogh Website Created for Project
 [Git Hub Pages](https://twolightsabovethesea.github.io/art-classification/)
 
-## Data Analysis
+## Project Description
+This project used paintings by Vincent van Gogh to determine if the the image was done by the artist himself, or done by a child. Machine Learning was used 
 
 
 
