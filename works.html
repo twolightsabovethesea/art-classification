@@ -46,13 +46,38 @@
         </h1>
         <p style="text-align:center;"><img src="https://vangoghornot.s3.amazonaws.com/website_images/Deep-Learning-vs-Machine-Learning.jpg" alt="hero image"  width=700px, height=auto></p>
         <hr>
-        <p>Computers can do many things, but they can’t see a painting the way that a person can. Does that mean that a computer cannot tell art apart? Nope! Computers can help people solve complex problems using something called machine learning. One type of problem computers can solve using machine learning is a classification problem. In this case, the classification problem is deciding whether a painting was made by Vincent van Gogh or by someone else. 
+        <p>Computers can do many things, but they can’t see a painting the way that a person can. Does that mean that a computer cannot tell art apart? Nope! Computers can help people solve complex problems using something called machine learning. One type of problem computers can solve using machine learning is a classification problem. In this case, the classification problem is deciding whether a painting was made by Vincent van Gogh or by someone else.
         </p>
         <p>So how can a computer classify art if it can’t see the art? All machine learning requires data and for this problem, the data is pictures. When computers use machine learning, they need the data to be in the form of numbers. Before we can get started teaching the computer how to classify our images, we have to turn the pictures into numbers! Digital images - images on computers - are made of pixels, which are like little dots. We can have the computer give each pixel of a picture a number value and put the numbers in one long list. Think of it like unraveling a sweater into one long piece of yarn, but the yarn is made of numbers. There are a few other things that have to happen for our pictures to be ready to use but we won’t worry about those right now - turning the pictures into numbers is the most important one!
         </p>
         <p>Once the data is ready, we need a machine learning model that can take that data and help us solve our problem. There are many types of machine learning models but for this problem we are going to use one called a neural network. Neural networks get their name from neurons, cells found in your brain, because the people who had the idea to create neural networks were inspired by neurons. The units in a neural network work together just like the neurons in your brain but they are arranged in layers. Each unit does one small part of the task of classifying the image using complicated math. The unit then passes its work on to all the units in the next layer for their turn.  When the data reaches the output layer - the last one - the model gives its result.  What does our model output? It tells us its best guess whether the picture was made by van Gogh or by someone else. 
         </p>
-       
+        <p>
+          Our images have been prepared as data that the computer can “see” and we built a model - a neural network - that can learn how to classify those images as either van Gogh or not van Gogh. How do we know if our model is doing a good job? We could look at each image and each guess the model made to check whether it was correct. However, if we wanted to look at lots and lots of images that would take way too long. Instead, we can look at something called accuracy. Accuracy tells us how much of the time the model guessed correctly. An accuracy score of one is perfect, meaning the model guessed correctly every time, and an accuracy score of zero is the opposite - the model didn’t guess correctly even once! We want our model’s accuracy score to be closer to one than to zero so we know that it is guessing correctly pretty often.
+        </p>
+        <p>
+          If our results are not good, we may need to make some changes to the model or how we train it. Let’s think of an example of why we might need to make changes. What if we want to classify more images that the model has never seen before? If we did a good job of training it, the model should get a good accuracy score when it classifies the new images, too. One problem that can lead to a low accuracy score on new data is called overfitting; this happens when a model gets a great accuracy score on the training images but gets a low accuracy score when we ask it to classify new images. Think of it like a student who memorizes the answers to an old math test and hopes the new math test will have the same answers instead of learning how to solve the kind of math problems that will be on the new test. If we see that overfitting is making our model do poorly, we can help it learn better by doing things like providing it with more data while it is learning. 
+        </p>
+       <p>
+        Want to learn more? Check out these resources:
+       </p>
+       <ul>
+         <li>
+           <a href="https://youtu.be/z-EtmaFJieY">Crash Course Computer Science video on machine learning and artificial intelligence</a>
+        </li>
+         <li>
+          <a href="https://youtu.be/5q87K1WaoFI">WIRED Expert Explains Machine Learning at five levels of difficulty</a>
+         </li>
+         <li>
+          <a href="https://www.youtube.com/watch?v=GvYYFloV0aA&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b">Crash Course AI playlist of videos on artificial intelligence</a>
+         </li>
+         <li>
+          <a href="https://www.kaggle.com/learn/intro-to-machine-learning">Kaggle Intro to Machine Learning interactive course</a>
+         </li>     
+       </ul>
+       <p>Free but may require making an account and the course itself requires some knowledge of Python programming language. Kaggle offers free courses on Python so you can prepare for this one if you like, and also more courses on advanced machine learning topics if you enjoy it and want to continue!
+         
+       </p>
       </section>
       </section>
     </div>
