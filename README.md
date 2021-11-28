@@ -25,7 +25,7 @@ In this project we used machine learning to determine if Van Gogh paintings were
 
 ## Project Description
 This project used paintings by Vincent van Gogh to determine if the the image was done by the artist himself, or done by a child. Multiple machine learning models were used to test loss and accuracy. 
-
+*#Non-Convolutional Model - 
 
 
 
